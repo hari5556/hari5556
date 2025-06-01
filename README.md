@@ -6,7 +6,7 @@ I'm a recent B.Tech graduate in Information Technology, passionate about buildin
 
 ### 💻 Skills
 
-- **Programming & Tools:** Python, MySQL, Git, GitHub, Linux Terminal  
+- **Programming & Tools:** Python, SQL, Git, GitHub, Linux Terminal  
 - **Web Development:** HTML, CSS, JavaScript (basic), Figma  
 - **Areas of Interest:** Web Development, Cybersecurity Basics, Problem Solving
 
