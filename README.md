@@ -1,37 +1,65 @@
 # 👋 Hi, I'm Hari A
 
-I'm a recent B.Tech graduate in Information Technology, passionate about building practical tech solutions and continuously learning new skills.
+Software Developer with 6 months of experience building web applications using Python, Flask, MySQL, and JavaScript. Passionate about backend development, software engineering, and designing scalable business applications.
 
 ---
 
-### 💻 Skills
+## 💻 Technical Skills
 
-- **Programming & Tools:** Python, SQL, Git, GitHub, Linux Terminal  
-- **Web Development:** HTML, CSS, JavaScript (basic), Figma  
-- **Areas of Interest:** Web Development, Cybersecurity Basics, Problem Solving
-
----
-
-### 📂 Academic Projects
-
-- **Emotion Recognition System**: Contributed to a team project integrating voice and facial emotion detection using CNN-LSTM and audio/visual features.
-- **PCAP File Analyzer**: Helped develop a Python-based tool using Scapy and regex to analyze network traffic and detect malicious patterns.
+* **Languages:** Python, JavaScript, SQL
+* **Backend:** Flask, REST APIs, Authentication & Authorization
+* **Database:** MySQL
+* **Tools & Technologies:** Git, GitHub, Linux
+* **Concepts:** Database Design, API Development, Inventory Management Systems
 
 ---
 
-### 💼 Internship Experience
+## 🚀 Featured Project
 
-- **Web Development Intern at NxtLogic**: Built and styled frontend pages using HTML, CSS, and JavaScript.
-- **Cybersecurity Intern at Hackup**: Gained hands-on exposure to tools like Wireshark, Nmap, Burp Suite for network traffic and vulnerability testing.
+### Dynamic Stock & Order Management System
+
+Designed and developed a web-based inventory and order management platform with dynamic configuration capabilities.
+
+**Key Features:**
+
+* Inventory Management
+* Order Processing & Tracking
+* Customer Management
+* Product Management
+* Authentication & Role-Based Access
+* Dynamic System Configurations
+* MySQL Database Integration
+* RESTful Backend Architecture
+
+**Tech Stack:** Python, Flask, MySQL, JavaScript, HTML, CSS
 
 ---
 
-### 📫 Let's Connect
+## 💼 Professional Experience
 
-- 📧 hariamarnath2003@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/a-hari-966588225)  
-- 💻 [GitHub](https://github.com/hari5556)
+### Software Developer | 6 Months Experience
+
+* Developed and maintained web applications using Python, Flask, and MySQL.
+* Designed and implemented RESTful APIs for business workflows.
+* Developed authentication and authorization modules.
+* Worked on database schema design and optimization.
+* Built scalable backend business logic for inventory and order management systems.
 
 ---
 
-🛠️ *Open to learning, collaborating, and building impactful projects.*
+## 🎓 Education
+
+**B.Tech – Information Technology**
+Graduated in 2025
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [hariamarnath2003@gmail.com](mailto:hariamarnath2003@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/a-hari-966588225](http://www.linkedin.com/in/a-hari-966588225)
+* 💻 GitHub: github.com/hari5556
+
+---
+
+⭐ Interested in Software Development, Backend Engineering, Python Development, and Building Real-World Applications.
