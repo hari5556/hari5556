@@ -57,7 +57,7 @@ Graduated in 2025
 ## 📫 Connect With Me
 
 * 📧 Email: [hariamarnath2003@gmail.com](mailto:hariamarnath2003@gmail.com)
-* 💼 LinkedIn: [www.linkedin.com/in/a-hari-966588225](http://www.linkedin.com/in/a-hari-966588225)
+* 💼 LinkedIn: [www.linkedin.com/in/hari-a-966588225](https://www.linkedin.com/in/hari-a-966588225)
 * 💻 GitHub: github.com/hari5556
 
 ---
